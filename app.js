@@ -27,7 +27,7 @@ $("#search").on("click", function () {
             url: queryURL,
             method: "GET",
             data: {
-                apikey: "2f15bd51838d45008f587029ef9089f5",
+                apikey: "477062e6c76427b59387c3568115f",
                 q: searchTerm,
                 begin_date: startYear,
                 end_date: endYear,
